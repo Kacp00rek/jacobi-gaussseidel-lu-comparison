@@ -7,7 +7,7 @@ Projekt implementuje i porównuje trzy metody rozwiązywania równań liniowych:
 
 Metody te są porównywane pod względem **szybkości** jak i **zbieżności** dla różnych macierzy.  
 
-📄 [Zobacz pełną analizę (PDF)](report/sprawozdanie.pdf)
+📄 [Zobacz pełną analizę (PDF)](report/Sprawozdanie.pdf)
 
 **Autor:** Kacper Grzelakowski  
 **GitHub:** [github.com/Kacp00rek](https://github.com/Kacp00rek)
